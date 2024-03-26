@@ -1,5 +1,3 @@
-Hello!
-This is the perfume project i have made with reference of errormakescleaver youtube page
-it's based on 70% of HTML and 30% of CSS
-And i have add extra images and content in this project
+Hi there!
+This perfume project, which I created using the errormakescleaver YouTube page as a model, is 70% HTML and 30% CSS. I also added more images and material to it.
 Thank you.
